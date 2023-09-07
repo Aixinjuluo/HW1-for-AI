@@ -10,8 +10,6 @@
 ### Run the four algorithms on the same list and compare their performance
 
 1. Bubble Sort - autri 
-> hybridSort(L, 1, 3, 19)
 2. Merge Sort - autri
-> hybridSort(L, 1, 3, 1)
 3. Quick Sort - an
 4. Hybrid Sort
