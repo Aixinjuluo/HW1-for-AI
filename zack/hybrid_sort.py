@@ -1,7 +1,18 @@
+# Group 19
+# An T Nguyen
+# Autri Ilesh Banerjee
+# Tiezheng(Zack) Wu
+
+# -------------------------------------------------------------------
+# GUIDE TO RUN THE CODE
+# -------------------------------------------------------------------
+# Use the hybrid_sort.py file to run hybrid sort
+# Each sorting algorithm can be run individually in seperate files
+
 import time
-from zack.bubble_sort import bubble_sort
-from zack.merge_sorts import merge
-from zack.quick_sort import quick_sort
+from bubble_sort import bubble_sort
+from merge_sorts import merge
+from quick_sort import quick_sort
 
 # Initialize a global variable to count comparisons
 comparison_count = 0

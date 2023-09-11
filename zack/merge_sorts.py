@@ -1,3 +1,8 @@
+# Group 19
+# Autri Ilesh Banerjee
+# An T Nguyen
+# Tiezheng(Zack) Wu
+
 import time
 
 # Initialize a global variable to count comparisons
