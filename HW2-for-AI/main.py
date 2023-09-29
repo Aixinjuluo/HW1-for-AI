@@ -1,5 +1,5 @@
 # Assignment 2
-# An Nguyen, Autri Ilesh Banerjee, 
+# Group 19: An Nguyen, Autri Ilesh Banerjee, Tiezheng(Zack) Wu
 
 class Node:
   def __init__():
